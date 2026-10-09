@@ -1,0 +1,110 @@
+[
+  {
+    "id": "2610.11502",
+    "url": "https://arxiv.org/abs/2610.11502",
+    "title": "Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Large Language Models (LLMs) have shown strong reasoning capabilities when fine-tuned with reinforcement learning (RL), particularly through Group Relative Policy Optimization (GRPO). However, existing GRPO methods assume centralized access to training data, which may not hold in practice due to pri",
+    "n": 1
+  },
+  {
+    "id": "2510.01925",
+    "url": "https://huggingface.co/papers/2510.01925",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "date": "2025-10-02",
+    "source": "hf-search",
+    "summary": "Reward models enhance large language model reasoning through guiding generation, data synthesis, and reinforcement learning training, while addressing open questions in their selection, evaluation, and improvement.",
+    "n": 2
+  },
+  {
+    "id": "2511.14460",
+    "url": "https://huggingface.co/papers/2511.14460",
+    "title": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
+    "date": "2025-11-18",
+    "source": "hf-search",
+    "summary": "A new training framework for RL-based LLM Agents is introduced, extending MDP methodology and demonstrating effectiveness on Multihop QA tasks.",
+    "n": 3
+  },
+  {
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Large language model (LLM)-based agents have demonstrated strong capabilities on complex tasks. They typically perform reasoning before each action throughout an interaction trajectory. However, reasoning may not be necessary at every turn, as reasoning produced earlier can continue to support subse",
+    "n": 4
+  },
+  {
+    "id": "2508.08221",
+    "url": "https://huggingface.co/papers/2508.08221",
+    "title": "Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning",
+    "date": "2025-08-11",
+    "source": "hf-search",
+    "summary": "A systematic review of reinforcement learning techniques for large language model reasoning reveals clear guidelines and demonstrates that a minimalist combination of techniques can improve performance over existing strategies.",
+    "n": 5
+  },
+  {
+    "id": "2505.14652",
+    "url": "https://huggingface.co/papers/2505.14652",
+    "title": "General-Reasoner: Advancing LLM Reasoning Across All Domains",
+    "date": "2025-05-20",
+    "source": "hf-search",
+    "summary": "General-Reasoner enhances large language model reasoning across diverse domains by using a large-scale dataset and generative model-based answer verification, outperforming existing methods.",
+    "n": 6
+  },
+  {
+    "id": "2610.11696",
+    "url": "https://arxiv.org/abs/2610.11696",
+    "title": "A 3D Characterization Framework for Intelligent Sequential Decision Making",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Puzzles are widely used to evaluate the reasoning capabilities of artificial intelligence (AI) systems for sequential decision making, yet approaches originating from different paradigms are rarely compared under unified conditions. To address this gap, we introduce a three-dimensional characterizat",
+    "n": 7
+  },
+  {
+    "id": "https://arxiv.org/abs/2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "[2509.16679] Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 8
+  },
+  {
+    "id": "https://arxiv.org/html/2412.10400",
+    "url": "https://arxiv.org/html/2412.10400",
+    "title": "Reinforcement Learning Enhanced LLMs: A Survey",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 9
+  },
+  {
+    "id": "2609.12317",
+    "url": "https://huggingface.co/papers/2609.12317",
+    "title": "Sampling via Decision-Flow: Training-Free Extraction of Improved Latent Reasoning Paths in Large Language Models",
+    "date": "2026-09-11",
+    "source": "hf-search",
+    "summary": "A central question in LLM reasoning is whether reinforcement learning (RL) instills genuinely new capabilities or merely reshapes how existing knowledge is expressed during inference. Building on the distribution-sharpening hypothesis, which holds that RL reallocates probability mass toward high-rew",
+    "n": 10
+  },
+  {
+    "id": "https://arxiv.org/abs/2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning ...",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 11
+  },
+  {
+    "id": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00218-1",
+    "url": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00218-1",
+    "title": "Toward large reasoning models: A survey of reinforced ...",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 12
+  }
+]

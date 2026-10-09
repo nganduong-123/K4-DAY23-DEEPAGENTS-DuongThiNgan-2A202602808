@@ -1,0 +1,83 @@
+[
+  {
+    "id": "2609.03927",
+    "url": "https://arxiv.org/abs/2609.03927",
+    "title": "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models",
+    "date": "2026-09-03",
+    "source": "arxiv",
+    "summary": "For robots to operate reliably in real-world environments, they need to perceive their surroundings, act, and reason about the consequences of those actions. Rapid progress in the domains of representation learning, VLA models, and world models has significantly enhanced the capabilities of robot le",
+    "n": 1
+  },
+  {
+    "id": "2501.02189",
+    "url": "https://huggingface.co/papers/2501.02189",
+    "title": "A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges",
+    "date": "2025-01-04",
+    "source": "hf-search",
+    "summary": "A survey of multimodal vision language models covering model architectures, alignment methods, benchmarks, and challenges such as hallucination, alignment, fairness, and safety.",
+    "n": 2
+  },
+  {
+    "id": "2307.13721",
+    "url": "https://huggingface.co/papers/2307.13721",
+    "title": "Foundational Models Defining a New Era in Vision: A Survey and Outlook",
+    "date": "2023-07-25",
+    "source": "hf-search",
+    "summary": "Foundational models integrate multiple modalities to perform contextual reasoning and support prompt capabilities, enabling tasks like object segmentation, dialogue, and behavior control through language instructions.",
+    "n": 3
+  },
+  {
+    "id": "2609.09250",
+    "url": "https://arxiv.org/abs/2609.09250",
+    "title": "No Free Checker: A Survey of Verifiers for Robot Policies",
+    "date": "2026-09-08",
+    "source": "arxiv",
+    "summary": "A verifier for robot policies reads a candidate behavior and returns a score for how well it did, used both to evaluate vision-language-action policies and to train them. Verifiers range from success detectors and reward models to runtime monitors, safety filters, and temporal-logic specifications. ",
+    "n": 4
+  },
+  {
+    "id": "2609.05257",
+    "url": "https://arxiv.org/abs/2609.05257",
+    "title": "Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions",
+    "date": "2026-09-04",
+    "source": "arxiv",
+    "summary": "Commonsense reasoning in computer vision encompasses integrating visual data and contextual knowledge, crucial for enhancing AI's understanding of everyday scenarios. This understanding not only improves machine learning models but also enhances their ability to interact meaningfully with humans and",
+    "n": 5
+  },
+  {
+    "id": "2609.33055",
+    "url": "https://arxiv.org/abs/2609.33055",
+    "title": "Large Language Models Substantially Compress Well-Being Inequality but Largely Preserve Its Socioeconomic Structure",
+    "date": "2026-09-27",
+    "source": "arxiv",
+    "summary": "Research using large language models (LLMs) to generate synthetic populations has repeatedly shown that model outputs compress the diversity of human experience. This has raised doubts about whether LLM-generated data can capture meaningful differences within populations. We show that such compressi",
+    "n": 6
+  },
+  {
+    "id": "https://doi.org/10.34193/ei-a-15252",
+    "url": "https://doi.org/10.34193/ei-a-15252",
+    "title": "Global survey reveals what people around the world think about science",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 7
+  },
+  {
+    "id": "https://doi.org/10.18356/29346b6e-en",
+    "url": "https://doi.org/10.18356/29346b6e-en",
+    "title": "Should we worry about water?",
+    "date": "1996-2-5",
+    "source": "web",
+    "summary": "",
+    "n": 8
+  },
+  {
+    "id": "https://doi.org/10.7591/9781501728242-012",
+    "url": "https://doi.org/10.7591/9781501728242-012",
+    "title": "APPENDIX 1. About the Ohio Survey",
+    "date": "2019-12-31",
+    "source": "web",
+    "summary": "",
+    "n": 9
+  }
+]

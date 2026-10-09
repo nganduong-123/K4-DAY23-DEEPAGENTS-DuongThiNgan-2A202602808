@@ -1,5 +1,35 @@
 # Deep Research Agent (Deep Agents + Sandbox)
 
+**Student:** Dương Thị Ngân
+
+**Student ID:** 2A202602808
+
+**Course lab:** Day 23 — LangGraph, Deep Agents & Agentic Orchestration
+
+This submission implements the four student-owned modules (`tools.py`,
+`agents.py`, `research.py`, and `check_citations.py`) and keeps the provided
+`model.py` and `sandbox.py` unchanged.
+
+## Quick start
+
+```powershell
+py -3.13 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+Copy-Item .env.example .env
+python research.py "survey about world model"
+python self_check.py
+```
+
+Configure a tool-capable model in `.env`. Use `SANDBOX=docker` for a local,
+network-isolated sandbox or provide `DAYTONA_API_KEY`. The optional
+`LAB_MAX_TOKENS` setting limits each model response when an OpenAI-compatible
+gateway reserves too much output capacity.
+
+Each topic creates three committed artifacts in `reports/`: the Markdown
+survey, its normalized source registry, and run metadata. The metadata records
+delegation/tool counts, token usage, elapsed time, and retained source families.
+
 Lab dựng một **hệ thống deep research đa tác tử**: người dùng chỉ cần nhập một chủ đề (ví dụ `survey about world model`), hệ thống tự lập kế hoạch, giao việc cho nhiều subagent, tìm tài liệu trên arXiv, Hugging Face và web, rồi viết một **báo cáo có trích dẫn**.
 
 Hình thức: **bài thực hành cá nhân**. Ngôn ngữ lập trình: Python 3.11 trở lên.
