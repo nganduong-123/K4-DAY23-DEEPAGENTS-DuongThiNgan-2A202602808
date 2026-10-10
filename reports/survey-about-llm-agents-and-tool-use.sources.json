@@ -1,0 +1,83 @@
+[
+  {
+    "id": "https://arxiv.org/html/2406.05804",
+    "url": "https://arxiv.org/html/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 1
+  },
+  {
+    "id": "https://arxiv.org/html/2604.00835",
+    "url": "https://arxiv.org/html/2604.00835",
+    "title": "Agentic Tool Use in Large Language Models: A Survey",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 2
+  },
+  {
+    "id": "https://arxiv.org/abs/2503.21460",
+    "url": "https://arxiv.org/abs/2503.21460",
+    "title": "Large Language Model Agent: A Survey on Methodology ...",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 3
+  },
+  {
+    "id": "2310.03128",
+    "url": "https://huggingface.co/papers/2310.03128",
+    "title": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use",
+    "date": "2023-10-04",
+    "source": "hf-search",
+    "summary": "MetaTool benchmark evaluates large language models' tool usage awareness and selection capabilities across different scenarios, finding room for significant improvement.",
+    "n": 4
+  },
+  {
+    "id": "2610.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Agents are deployed in applications from trip planners and stock trading to IT incident triage. In most cases, LLM agents work autonomously with minimal rule-based safeguarding, leading to cost and safety issues from irreversible actions. Recent works resolve this either by using a safeguard agent t",
+    "n": 5
+  },
+  {
+    "id": "2610.12183",
+    "url": "https://arxiv.org/abs/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Black-box optimization (BBO) arises in many scientific and engineering problems where objective evaluations are expensive and limited. Recent large language model (LLM) agents offer a new way to approach BBO by combining task semantics, computation, optimization tools, and feedback-driven decision m",
+    "n": 6
+  },
+  {
+    "id": "2409.02977",
+    "url": "https://huggingface.co/papers/2409.02977",
+    "title": "Large Language Model-Based Agents for Software Engineering: A Survey",
+    "date": "2024-09-04",
+    "source": "hf-search",
+    "summary": "A survey categorizes and discusses LLM-based agents in Software Engineering, highlighting their versatility, effectiveness, and open challenges.",
+    "n": 7
+  },
+  {
+    "id": "2401.05459",
+    "url": "https://huggingface.co/papers/2401.05459",
+    "title": "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security",
+    "date": "2024-05-08",
+    "source": "hf-search",
+    "summary": "Personal LLM Agents represent an emerging paradigm for intelligent personal assistance that integrates large language models with personal data and devices, addressing key architectural, capability, efficiency, and security challenges.",
+    "n": 8
+  },
+  {
+    "id": "2610.12190",
+    "url": "https://arxiv.org/abs/2610.12190",
+    "title": "DataSense-Bench: The First Step Toward an AI Scientist",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "As claims about recursive self-improvement (RSI) and artificial general intelligence (AGI) proliferate, we ask a simple question: do frontier AI models have a sense of data, i.e., can they reliably select the right data for training? We introduce DataSense-Bench to study this capability through the ",
+    "n": 9
+  }
+]

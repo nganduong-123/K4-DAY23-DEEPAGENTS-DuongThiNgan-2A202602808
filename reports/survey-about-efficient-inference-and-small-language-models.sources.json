@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2610.07443",
+    "url": "https://arxiv.org/abs/2610.07443",
+    "title": "A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving",
+    "date": "2026-10-05",
+    "source": "arxiv",
+    "summary": "Large language models (LLMs) have become the backbone of modern AI applications, but pose significant challenges for efficient inference. Their autoregressive generation divides execution into two phases: prefill, dominated by large GEMMs, and decoding, dominated by small GEMVs. Modern serving syste",
+    "n": 1
+  },
+  {
+    "id": "2610.00465",
+    "url": "https://arxiv.org/abs/2610.00465",
+    "title": "AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing",
+    "date": "2026-09-30",
+    "source": "arxiv",
+    "summary": "Next-generation large language models (LLMs) are expanding from the cloud to ubiquitous edge devices. However, edge devices typically either lack the memory to store increasingly large LLM weights or, even with enough memory, spend unaffordable energy on loading the weights. This raises our question",
+    "n": 2
+  },
+  {
+    "id": "2405.04532",
+    "url": "https://huggingface.co/papers/2405.04532",
+    "title": "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving",
+    "date": "2024-05-07",
+    "source": "hf-search",
+    "summary": "QServe, a W4A8KV4 quantization algorithm in QServe inference library, enhances GPU-based large language model serving by reducing dequantization overhead and improving throughput.",
+    "n": 3
+  },
+  {
+    "id": "2602.04163",
+    "url": "https://huggingface.co/papers/2602.04163",
+    "title": "BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models",
+    "date": "2026-02-04",
+    "source": "hf-search",
+    "summary": "Bit-Plane Decomposition Quantization (BPDQ) improves low-bit quantization by using variable quantization grids derived from bit-planes and scalar coefficients, achieving better accuracy than traditional methods in resource-constrained LLM inference.",
+    "n": 4
+  },
+  {
+    "id": "2508.04405",
+    "url": "https://huggingface.co/papers/2508.04405",
+    "title": "FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design",
+    "date": "2025-08-06",
+    "source": "hf-search",
+    "summary": "FlexQ is a post-training INT6 quantization framework that enhances inference efficiency and accuracy for large language models by combining uniform weight quantization with adaptive activation retention and specialized GPU kernels.",
+    "n": 5
+  },
+  {
+    "id": "https://doi.org/10.36227/techrxiv.175994221.11990581/v1",
+    "url": "https://doi.org/10.36227/techrxiv.175994221.11990581/v1",
+    "title": "Advances in Small Language Models: A Comprehensive Survey on Efficient NLP Solutions for Resource-Constrained Environments",
+    "date": "2025-10-8",
+    "source": "web",
+    "summary": "Small Language Models (SLMs) signify a new paradigm in natural language processing. They provide effective alternatives to large-scale transformer models when deployed on restricted resources. Given that SLMs are a recent development, this report examines advance SLMs and recent scholarship, including types of architectures based on transformer, and examples of domain specific applications and dep",
+    "n": 6
+  },
+  {
+    "id": "2609.33135",
+    "url": "https://arxiv.org/abs/2609.33135",
+    "title": "MpFA: Hardware-Efficient Train-Free QK4V8 FlashAttention Kernels on Blackwell GPUs",
+    "date": "2026-09-27",
+    "source": "arxiv",
+    "summary": "Long-context LLM inference pushes modern GPU serving stacks into an attention-bound regime, where both compute and memory are dominated by the softmax-GEMM pipeline. On NVIDIA Blackwell GPUs, FP4 Tensor Cores offer high matmul throughput, but we find that fully FP4 attention often fails to translate",
+    "n": 7
+  },
+  {
+    "id": "https://doi.org/10.32657/10356/214513",
+    "url": "https://doi.org/10.32657/10356/214513",
+    "title": "Efficient learning and inference methods for large language models",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 8
+  }
+]

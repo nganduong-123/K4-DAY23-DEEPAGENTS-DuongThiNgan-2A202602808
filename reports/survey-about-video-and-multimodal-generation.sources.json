@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models",
+    "n": 1
+  },
+  {
+    "id": "2610.11993",
+    "url": "https://arxiv.org/abs/2610.11993",
+    "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Data video is a media form that integrates data visualization with video narrative, widely adopted in news reporting and business analysis. Compared with general video understanding, data video understanding places greater emphasis on accurately reading data from animated charts, integrating evidenc",
+    "n": 2
+  },
+  {
+    "id": "2610.11736",
+    "url": "https://arxiv.org/abs/2610.11736",
+    "title": "Towards Unified Evaluation of Prompt Enhancers for Video Generation",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "summary": "Modern video generators can realize increasingly complex visual narratives, positioning the prompt enhancer (PE) as a critical bridge from concise user instructions and multimodal references to structured cinematic plans. However, existing PE evaluation relies on rendered videos, imposing substantia",
+    "n": 3
+  },
+  {
+    "id": "2503.21254",
+    "url": "https://huggingface.co/papers/2503.21254",
+    "title": "Vision-to-Music Generation: A Survey",
+    "date": "2025-03-27",
+    "source": "hf-search",
+    "summary": "A systematic review of vision-to-music generation methodologies focusing on technical characteristics, challenges, datasets, and evaluation metrics.",
+    "n": 4
+  },
+  {
+    "id": "2509.03883",
+    "url": "https://huggingface.co/papers/2509.03883",
+    "title": "Human Motion Video Generation: A Survey",
+    "date": "2025-09-04",
+    "source": "hf-search",
+    "summary": "This survey provides a comprehensive overview of human motion video generation, covering five key phases and discussing the integration of large language models across vision, text, and audio modalities.",
+    "n": 5
+  },
+  {
+    "id": "2401.09084",
+    "url": "https://huggingface.co/papers/2401.09084",
+    "title": "UniVG: Towards UNIfied-modal Video Generation",
+    "date": "2024-01-17",
+    "source": "hf-search",
+    "summary": "The Unified-modal Video Generation system uses Multi-condition Cross Attention and Biased Gaussian Noise to handle diverse video generation tasks across text and image modalities, achieving superior performance on benchmarks.",
+    "n": 6
+  },
+  {
+    "id": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "title": "Generative AI for multimodal content: a survey with empirical ...",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 7
+  },
+  {
+    "id": "https://arxiv.org/abs/2405.19334",
+    "url": "https://arxiv.org/abs/2405.19334",
+    "title": "LLMs Meet Multimodal Generation and Editing: A Survey",
+    "date": "n.d.",
+    "source": "web",
+    "summary": "",
+    "n": 8
+  }
+]
